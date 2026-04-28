@@ -1,0 +1,40 @@
+{
+    "questions": [
+        {
+            "question": "Hola",
+            "answer": "Hola, como estas?"
+        },
+        {
+            "question": "Muy bien, y tu?",
+            "answer": "Estoy bien, gracias por preguntar"
+        },
+        {
+            "question": "bien",
+            "answer": "Me alegro por ti"
+        },
+        {
+            "question": "No me puedo quejar",
+            "answer": "O sea que todo bien?"
+        },
+        {
+            "question": "Diria que si",
+            "answer": "Orale"
+        },
+        {
+            "question": "Hola como estas?",
+            "answer": "Muy bien, y tu?"
+        },
+        {
+            "question": "Hola me entiendes",
+            "answer": "Si, te entiendo"
+        },
+        {
+            "question": "Hola Que tal todo",
+            "answer": "Bien, no me puedo quejar"
+        },
+        {
+            "question": "Que tal todo como se entiende esto",
+            "answer": "Se entiende bien"
+        }
+    ]
+}
